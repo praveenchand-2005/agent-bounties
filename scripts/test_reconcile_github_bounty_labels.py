@@ -327,6 +327,8 @@ class GitHubBountyLabelReconciliationTests(unittest.TestCase):
             self.assertEqual(
                 main(
                     [
+                        "--repository",
+                        REPOSITORY,
                         "--fixture",
                         str(fixture_path),
                         "--json-out",
