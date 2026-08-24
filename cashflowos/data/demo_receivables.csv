@@ -1,0 +1,11 @@
+customer_id,customer_name,invoice_id,invoice_date,due_date,invoice_amount,paid_amount,payment_date,payment_terms_days,category
+C001,Ravi Traders,INV-1001,2026-06-10,2026-07-10,185000,0,,30,Distributor
+C002,Sri Lakshmi Stores,INV-1002,2026-07-20,2026-08-19,72000,0,,30,Retailer
+C003,Kumar Agencies,INV-1003,2026-08-01,2026-08-15,34000,10000,2026-08-18,14,Distributor
+C004,Metro Electricals,INV-1004,2026-07-05,2026-08-04,125000,50000,2026-08-10,30,Electrical
+C005,Shree Building Materials,INV-1005,2026-06-15,2026-07-15,240000,0,,30,Building Materials
+C006,Anu Enterprises,INV-1006,2026-08-05,2026-08-20,58000,58000,2026-08-19,15,Wholesaler
+C007,Vijaya Hardware,INV-1007,2026-07-25,2026-08-24,96000,0,,30,Hardware
+C008,Krishna Distributors,INV-1008,2026-07-01,2026-07-31,310000,150000,2026-08-12,30,FMCG
+C009,Star Agencies,INV-1009,2026-08-10,2026-09-09,88000,0,,30,Distributor
+C010,Navya Traders,INV-1010,2026-07-12,2026-08-11,145000,0,,30,Textile
